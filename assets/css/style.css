@@ -134,3 +134,11 @@ body {
   background-position: 0px -8px;
   width: 11.3rem;
 }
+
+/* media queries */
+
+@media (max-width: 1024px) {
+  .instagram-wrapper {
+      width: 90%;
+  }
+}
