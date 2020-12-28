@@ -18,7 +18,3 @@
 
 [pré-visualização - style.css]
 ![Preview](style.png)
-
-
-
-
